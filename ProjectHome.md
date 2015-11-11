@@ -1,0 +1,1 @@
+this project will be used to demonstrate various concepts. the goal is to have a place in which I can put different projects related to my work, speaking, training, and books.
